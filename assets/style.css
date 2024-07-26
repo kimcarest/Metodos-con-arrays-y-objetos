@@ -1,0 +1,6 @@
+table, tr, td {
+    border: 1px solid hsl(0 0% 8%);
+}
+tr, td {
+    padding: .5rem;
+}
